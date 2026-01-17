@@ -47,10 +47,11 @@ clip-vit-fashion-recommender/
 ---
 
 ## ⚙️ Setup
-```bash
+1. Clone the repository:
 git clone https://github.com/YOUR_USERNAME/clip-vit-fashion-recommender.git
+2. Navigate into the project folder:
 cd clip-vit-fashion-recommender
-pip install -r requirements.txt
+3. Install dependencies:
 
 ---
 
