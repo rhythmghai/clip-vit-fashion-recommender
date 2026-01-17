@@ -1,0 +1,14 @@
+# Dataset files (do not upload)
+images/
+images.csv
+images_compressed.zip
+data/*.csv
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+.env

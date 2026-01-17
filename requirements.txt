@@ -1,0 +1,10 @@
+torch
+clip-anytorch
+scikit-learn
+numpy
+pandas
+Pillow
+opencv-python
+matplotlib
+tqdm
+jupyter
